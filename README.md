@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+### About The Project
+As a senior at Massachusetts Academy of Math and Science in Worcester, I was tasked with finding a senior project I would have to do for an entire 100 hours by the end of the year. As a result, I decided to have the optimistic idea to build my own chess AI (Artificial Intelligence)! However, it came dawned on my rather quickly (or maybe after 20 hours into coding and banging my head against the wall) that my computer science and general coding skills lacked the depth needed to meet my intended goal. In lieu, I changed the course of the project to instead be a more achievable goal, build my own chess software entirely from scratch. 
 
-You can use the [editor on GitHub](https://github.com/deoliveirajoshua/ChessEngine/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+As a way to make the code actually usuable to other people that somehow happen to find this page while scrolling through the vast expanse of GitHub and accidentally finding this page, I decided to break up the software into neat, orderly packages instead of the tempting "one class that somehow holds 30,000 lines of pure spaghetti code." Hopefully someone can find them useful down the road... 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Current Status
 
-### Markdown
+## Progress Over the Project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The following journey will guide through the horrible trainwreck of the development process just to reach version 1.0
 
-```markdown
-Syntax highlighted code block
+*Format:* _Version #  (Robustness/Stability) (Hours Used to reach Development)  
 
-# Header 1
-## Header 2
-### Header 3
+# Version 0.1 (Stable) (3 Hours)
+A singular piece object 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Version 0.3 (Stable) (10 Hours)
 
-**Bold** and _Italic_ and `Code` text
+# Version 0.8 (Almost Stable) (20 hours) 
 
-[Link](url) and ![Image](src)
-```
+# Version 0.8.5 (Horribly Broken) (10 Hours)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Version 1 (20)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deoliveirajoshua/ChessEngine/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Questions
+If you have any questions, comments, concerns, rebuttles, exclamations, accusations, or epic roasts regarding the code or the project in general, feel free to email me at _jcdeoliveira@wpi.edu_.   
