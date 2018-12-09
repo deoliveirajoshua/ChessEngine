@@ -17,7 +17,7 @@ A singular Piece object was made, housing all of the data necessary for all diff
 Also, a Board object was made, with only two constructors and a 2-dimensional array of string objects, and the string objects mapped to to an index of an arrayList of Piece objects. Looking back I remember I thought Strings and ArrayLists we also primitive data-types, and also 2-dimensional arrays could only be type-safed with a primitive data type (hence why I used the String object and not the Piece object directly). The god-awful abstraction of the board class brought upon so much tedious work to fully flesh out the Board class in Version 0.4
 
 ### Version 0.4 (Stable) (10 Hours)
-
+In this version, 
 
 ### Version 0.8 (Almost Stable) (20 hours) 
 
