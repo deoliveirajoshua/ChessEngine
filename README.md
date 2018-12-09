@@ -9,7 +9,7 @@ As a way to make the code actually usuable to other people that somehow happen t
 
 The following journey will guide through the horrible trainwreck of the development process just to reach version 1.0
 
-*Format:* _Version #  (Robustness/Stability) (Hours Used to reach Development)  
+*Format:* _Version #  (Robustness/Stability) (Hours Used to reach Development)_ 
 
 ### Version 0.1 (Stable) (3 Hours)
 A singular Piece object was made, housing all of the data necessary for all different types of pieces. This was a major structural blunder, especially since I was unaware of what abstract classes, super classes, interfaces, or even enumerations were. Thus, the overall design was utter garbage. Every class-scope data type was encapsulated with both getters and setters, in essence entirely defeating the purpose of encapsulation in the first place. On top of that, most the data was in the form of strings since this singular piece object had to adapt into any of the six varieties of chess pieces, as well as be either a black or a white piece. Even worse, I wasted an enormous amount of time typing up almost every possible configuration of constructor for some reason despite the need for only one, arguably two, constructors necessary in hindsight. 
